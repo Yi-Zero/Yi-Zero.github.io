@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>欢迎光临!本博客基于GitHub搭建</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Fri, 28 Jun 2024 12:17:15 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>欢迎光临!本博客基于GitHub搭建</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Fri, 28 Jun 2024 12:20:03 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>E项目管理器 - Release_1.0.0</title><link>https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20Release_1.0.0.html</link><description># E项目管理器 - Release_1.0.0&#13;
+&#13;
+&#13;
+### 预览图：&#13;
+&#13;
+&lt;img width='622' alt='屏幕截图 2024-06-28 195345' src='https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/ef6bb421-2256-4ccd-aa05-5a921377efe3'&gt;&#13;
+&#13;
+&#13;
+### 简介：&#13;
+一款更具现代风的[易语言](http://bbs.125.la/)项目管理器，本人比较菜，写的不太好，只是为了实现相应的功能，还请大佬勿喷。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20Release_1.0.0.html</guid><pubDate>Fri, 28 Jun 2024 12:14:17 +0000</pubDate></item></channel></rss>

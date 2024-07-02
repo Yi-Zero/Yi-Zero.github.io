@@ -9,6 +9,12 @@
 ### 使用说明：
 根据脚本提示的引导操作即可
 
+### 哈勃报告：
+#注：关于“直接调用系统关键API”这个关键行为，是为了获取"Steam"和"Wallpaper"进程的PID用来判断软件是否启动，无需担心
+![QQ截图20240702092921](https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/67ddacee-d7cd-4e92-9545-cff241df9b47)
+
+哈勃报告地址：
+https://habo.qq.com/file/showdetail?md5=ddb03e875c063354b744ef9ec99d0105&pk=ADcGb11pB2UIPVs6U2oHYQ%3D%3D
 
 ### 下载区：
 

@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Welcome! 本博客基于GitHub Pages功能搭建</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Sun, 14 Jul 2024 11:02:37 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>Wallpaper一键启动脚本v2.5</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.5.html</link><description># Wallpaper一键启动脚本v2.5&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Welcome! 本博客基于GitHub Pages功能搭建</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Sun, 14 Jul 2024 11:18:23 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>笔记本Win11通用优化工具v24.7.10</title><link>https://Yi-Zero.github.io/post/bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.7.10.html</link><description># 笔记本Win11通用优化工具v24.7.10&#13;
+&#13;
+### 更新预览图：&#13;
+![QQ20240714-190548](https://github.com/user-attachments/assets/4552edf3-5536-48f6-946b-bd62d75e0621)&#13;
+![QQ20240714-190554](https://github.com/user-attachments/assets/1f68ea17-2a35-4c4f-8dc9-a0052da96136)&#13;
+&#13;
+&#13;
+&#13;
+### 本次更新内容：&#13;
+*1. 增加Java版本切换脚本(Java安装路径必须为默认才可使用)&#13;
+*2. 增加Windows时间显示到秒以及恢复到分钟的切换功能&#13;
+*3. 本次版本获取硬件信息采用了多线程模式以优化速度(Beta)&#13;
+*4. 本次打包压缩使用了LZMA引擎以及极端野蛮压缩进一步减小了软件体积&#13;
+&#13;
+&#13;
+&#13;
+### 下载区：&#13;
+&#13;
+&#13;
+| 类型      | 下载地址 |&#13;
+| ----------- | ----------- |&#13;
+| 成品  |https://wankesixiang.lanzoub.com/ihNPD24fzcuj 密码:hhjq       |。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.7.10.html</guid><pubDate>Sun, 14 Jul 2024 11:17:55 +0000</pubDate></item><item><title>Wallpaper一键启动脚本v2.5</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.5.html</link><description># Wallpaper一键启动脚本v2.5&#13;
 &#13;
 ### 预览图：&#13;
 ![QQ截图20240702091319](https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/9bc6d25c-910d-4d7a-89f9-49841ec8ce94)&#13;

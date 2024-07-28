@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Welcome! 本博客基于GitHub Pages功能搭建</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Sat, 27 Jul 2024 10:44:25 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>笔记本Win11通用优化工具v24.7.27S</title><link>https://Yi-Zero.github.io/post/bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.7.27S.html</link><description># 笔记本Win11通用优化工具v24.7.27S&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Welcome! 本博客基于GitHub Pages功能搭建</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Sun, 28 Jul 2024 02:33:13 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>Wallpaper一键启动脚本v2.6</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.6.html</link><description># Wallpaper一键启动脚本v2.6&#13;
+&#13;
+&#13;
+### 预览图：&#13;
+![屏幕截图 2024-07-28 102733](https://github.com/user-attachments/assets/9eab7e9d-cf8b-4c73-9346-8df09cbae3a6)&#13;
+&#13;
+&#13;
+### 更新内容：&#13;
+*1.增加自动获取Steam安装位置功能(用户可自行选择自动或手动)&#13;
+*#.可能会有BUG希望用户遇到能够反馈&#13;
+&#13;
+&#13;
+### 下载区：&#13;
+&#13;
+| 类型      | 下载地址 |&#13;
+| ----------- | ----------- |&#13;
+| 成品  |https://wankesixiang.lanzoub.com/iAydf25r5tba 密码:eq6x       |。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.6.html</guid><pubDate>Sun, 28 Jul 2024 02:32:52 +0000</pubDate></item><item><title>笔记本Win11通用优化工具v24.7.27S</title><link>https://Yi-Zero.github.io/post/bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.7.27S.html</link><description># 笔记本Win11通用优化工具v24.7.27S&#13;
 &#13;
 #### *注:本次为一个小工具更新，后续所有小更新后缀均为S(如v24.7.27S)&#13;
 &#13;

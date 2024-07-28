@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Hello World!</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Sun, 28 Jul 2024 02:42:32 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>Wallpaper一键启动脚本v2.6</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.6.html</link><description># Wallpaper一键启动脚本v2.6&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Hello World!</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Sun, 28 Jul 2024 10:17:50 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>Wallpaper一键启动脚本v2.6</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.6.html</link><description># Wallpaper一键启动脚本v2.6&#13;
 &#13;
 &#13;
 ### 预览图：&#13;
@@ -66,7 +66,7 @@
 ### 本次更新内容：&#13;
 *1. 增加Java版本切换脚本(Java安装路径必须为默认才可使用)&#13;
 *2. 增加Windows时间显示到秒以及恢复到分钟的切换功能&#13;
-*3. 本次版本获取硬件信息采用了多线程模式以优化速度(Beta)&#13;
+*3. 本次版本获取硬件信息采用了线程处理(Beta)&#13;
 *4. 优化了获取硬件信息功能的逻辑代码(可能是负优化😂)&#13;
 *5. 本次打包压缩使用了LZMA引擎以及极端野蛮压缩进一步减小了软件体积&#13;
 *# 可能会有BUG希望各位能够反馈，谢谢！&#13;

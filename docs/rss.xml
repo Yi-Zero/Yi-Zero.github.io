@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Hello World!</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Tue, 30 Jul 2024 08:23:51 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>游戏平台&amp;工具下载器v2.0</title><link>https://Yi-Zero.github.io/post/you-xi-ping-tai-%26-gong-ju-xia-zai-qi-v2.0.html</link><description># 游戏平台&amp;工具下载器v2.0&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Hello World!</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Thu, 01 Aug 2024 11:08:29 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>游戏平台&amp;工具下载器v2.0</title><link>https://Yi-Zero.github.io/post/you-xi-ping-tai-%26-gong-ju-xia-zai-qi-v2.0.html</link><description># 游戏平台&amp;工具下载器v2.0&#13;
 &#13;
 ### 预览图：&#13;
 ![屏幕截图 2024-07-30 161647](https://github.com/user-attachments/assets/e8245a7f-300e-4ae7-8f6a-bf72c105d49e)&#13;
@@ -12,7 +12,12 @@
 ### 简介：&#13;
 一款简单的常见游戏平台以及常用工具的下载器，点击下载按钮等待下载完成即可，已经过UPX压缩加壳。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/you-xi-ping-tai-%26-gong-ju-xia-zai-qi-v2.0.html</guid><pubDate>Tue, 30 Jul 2024 08:23:23 +0000</pubDate></item><item><title>笔记本Win11通用优化工具v24.7.30</title><link>https://Yi-Zero.github.io/post/bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.7.30.html</link><description># 笔记本Win11通用优化工具v24.7.30&#13;
 &#13;
-#### *注:这是一个非常重要的功能更新&#13;
+&#13;
+&#13;
+&gt; [!IMPORTANT]&#13;
+&gt; *这是一个非常重要的功能更新&#13;
+&#13;
+&#13;
 &#13;
 ### 更新预览图：&#13;
 ![QQ20240730-161036](https://github.com/user-attachments/assets/56a5a2ae-03f3-4bd0-b09b-1af7ba22032e)&#13;

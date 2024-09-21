@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Hello World!</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Thu, 01 Aug 2024 11:09:06 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>游戏平台&amp;工具下载器v2.0</title><link>https://Yi-Zero.github.io/post/you-xi-ping-tai-%26-gong-ju-xia-zai-qi-v2.0.html</link><description># 游戏平台&amp;工具下载器v2.0&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Hello World!</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Sat, 21 Sep 2024 09:47:05 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>Wallpaper一键启动脚本v2.7</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.7.html</link><description># Wallpaper一键启动脚本v2.7&#13;
+&#13;
+&#13;
+### 预览图：&#13;
+&lt;img width='735' alt='Snipaste_2024-09-21_17-41-30' src='https://github.com/user-attachments/assets/579ec8ce-05ca-4e8b-8b90-0f802878fe43'&gt;&#13;
+&#13;
+&#13;
+&#13;
+### 更新内容：&#13;
+*1.修复自动启动Wallpaper时有几率启动无效的问题.&#13;
+*2.将用户配置文件存储位置更改到文档目录.&#13;
+*#.可能会有BUG希望用户遇到能够反馈&#13;
+&#13;
+&#13;
+### 下载区：&#13;
+&#13;
+| 类型      | 下载地址 |&#13;
+| ----------- | ----------- |&#13;
+| 成品  |https://wankesixiang.lanzoub.com/iF1cH2ai1x6b 密码:esy8       |。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.7.html</guid><pubDate>Sat, 21 Sep 2024 09:46:43 +0000</pubDate></item><item><title>游戏平台&amp;工具下载器v2.0</title><link>https://Yi-Zero.github.io/post/you-xi-ping-tai-%26-gong-ju-xia-zai-qi-v2.0.html</link><description># 游戏平台&amp;工具下载器v2.0&#13;
 &#13;
 ### 预览图：&#13;
 ![屏幕截图 2024-07-30 161647](https://github.com/user-attachments/assets/e8245a7f-300e-4ae7-8f6a-bf72c105d49e)&#13;

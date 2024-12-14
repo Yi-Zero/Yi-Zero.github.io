@@ -24,4 +24,7 @@
 | 源码      | https://wankesixiang.lanzoub.com/iyX7G2h2e9qb    |
 | 成品  | https://wankesixiang.lanzoub.com/iFr1m2h2e8od  密码:ewao       |
 
-###### Copyright © 2024 [Yi-Zero的博客.](https://yi-zero.github.io/) | SK Suko Team. All Rights Reserved.
+<br>
+<br>
+
+<p align="center">Copyright © 2024 Yi-Zero Blog • SK Suko Team. All Rights Reserved.</p>

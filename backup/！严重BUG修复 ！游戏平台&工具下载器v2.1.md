@@ -17,3 +17,8 @@
 | 类型      | 下载地址 |
 | ----------- | ----------- |
 | 成品  |https://wankesixiang.lanzoub.com/illpQ2ene06f 密码:eza5       |
+
+<br>
+<br>
+
+<p align="center">Copyright © 2024 Yi-Zero Blog • SK Suko Team. All Rights Reserved.</p>

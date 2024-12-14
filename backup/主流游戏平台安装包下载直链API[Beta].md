@@ -25,7 +25,7 @@ GET
 JSON
 ~~~ 
 
-### 返回示例(已省略大部分参数)：
+### 返回示例(局部参数)：
 ~~~
 {
     "0": {
@@ -49,6 +49,11 @@ JSON
 ### 其他信息：
 |       |  |
 | ----------- | ----------- |
-| ~~长期维护~~      | ✅       |
+| ~~长期维护~~      | ❌       |
 | 已下线      |  ✅      |
 
+
+<br>
+<br>
+
+<p align="center">Copyright © 2024 Yi-Zero Blog • SK Suko Team. All Rights Reserved.</p>

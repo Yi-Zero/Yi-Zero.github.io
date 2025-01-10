@@ -1,5 +1,8 @@
 # [GTA5]RID查询工具 - [普通版]
 
+### 最新版本请前往：[RID查询工具综合版](https://yizero.top/index.php/2025/01/04/rid%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7v1-0/)
+
+
 ### 预览图：
 ![QQ截图20240630195132](https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/0c817aca-3f51-41ae-b2bd-4bffaabedd62)
 

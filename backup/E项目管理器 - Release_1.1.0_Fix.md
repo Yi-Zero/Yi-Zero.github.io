@@ -1,3 +1,5 @@
+### 最新版本请前往：[E项目管理器 - G1.2.0](https://yizero.top/index.php/2025/01/04/e%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e5%99%a8-g1-2-0/)
+
 ### 预览图：
 <img width="622" alt="Snipaste_2024-12-06_18-58-19" src="https://github.com/user-attachments/assets/2319daf6-2d81-4eca-aa6e-ef09572a52f2">
 

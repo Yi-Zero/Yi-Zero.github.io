@@ -1,6 +1,6 @@
 # Wallpaper一键启动脚本v2.7
 
-
+### 最新版本请前往：[Wallpaper一键启动脚本v2.8](https://yizero.top/index.php/2025/01/10/wallpaper%e4%b8%80%e9%94%ae%e5%90%af%e5%8a%a8%e8%84%9a%e6%9c%acv2-8/)
 ### 预览图：
 <img width="735" alt="Snipaste_2024-09-21_17-41-30" src="https://github.com/user-attachments/assets/579ec8ce-05ca-4e8b-8b90-0f802878fe43">
 

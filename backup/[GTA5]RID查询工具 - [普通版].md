@@ -17,5 +17,5 @@ API接口数据来源于"洛圣都 Express"-微信公众号搜索“洛圣都 Ex
 
 | 类型      | 下载地址 |
 | ----------- | ----------- |
-| 成品  |https://wankesixiang.lanzoub.com/i07rc23584be  密码:bshn       |
+| 成品  |~~https://wankesixiang.lanzoub.com/i07rc23584be  密码:bshn~~       |
 

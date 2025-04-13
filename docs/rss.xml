@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Hello World!</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Sun, 13 Apr 2025 01:12:41 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>RID查询工具v1.1</title><link>https://Yi-Zero.github.io/post/RID-cha-xun-gong-ju-v1.1.html</link><description>### 更新内容：
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Hello World!</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Sun, 13 Apr 2025 01:14:29 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>RID查询工具v1.1</title><link>https://Yi-Zero.github.io/post/RID-cha-xun-gong-ju-v1.1.html</link><description>### 更新内容：
 
 *1：修复由于接口问题引起的无法查询到RID的问题。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/RID-cha-xun-gong-ju-v1.1.html</guid><pubDate>Sun, 13 Apr 2025 01:12:07 +0000</pubDate></item><item><title>小新工具箱 - v0.8.0</title><link>https://Yi-Zero.github.io/post/xiao-xin-gong-ju-xiang-%20-%20v0.8.0.html</link><description>### 详细信息请前往博客文章查看：[小新工具箱v0.8.0](https://yizero.top/index.php/2025/02/14/%e5%b0%8f%e6%96%b0%e5%b7%a5%e5%85%b7%e7%ae%b1-v0-8-0/)
 
@@ -224,19 +224,18 @@
 ![QQ截图20240702091319](https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/9bc6d25c-910d-4d7a-89f9-49841ec8ce94)&#13;
 &#13;
 ### 简介：&#13;
-*本脚本主要用于挂Sream的Wallpaper时长使用，因为Wallpaper默认开机自启不算入Steam时长。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.5.html</guid><pubDate>Tue, 02 Jul 2024 01:25:17 +0000</pubDate></item><item><title>[GTA5]RID查询工具 - [高级版]</title><link>https://Yi-Zero.github.io/post/%5BGTA5%5DRID-cha-xun-gong-ju-%20-%20%5B-gao-ji-ban-%5D.html</link><description># [GTA5]RID查询工具 - [高级版]&#13;
-&#13;
-### 最新版本请前往：[RID查询工具综合版](https://yizero.top/index.php/2025/01/04/rid%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7v1-0/)&#13;
-&#13;
-&#13;
-### 预览图：&#13;
-&lt;img width='215' alt='屏幕截图 2024-06-30 200220' src='https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/2c1094de-f016-4a42-b74b-330530bcd0f5'&gt;&#13;
-&#13;
-&lt;img width='257' alt='屏幕截图 2024-06-30 200234' src='https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/5713de93-99e0-401d-9fb5-0dc319cfc9e8'&gt;&#13;
-&#13;
-&lt;img width='257' alt='屏幕截图 2024-06-30 200029' src='https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/f90927f2-4453-4fa5-a640-b5c9bea6407d'&gt;&#13;
-&#13;
-### 简介：&#13;
+*本脚本主要用于挂Sream的Wallpaper时长使用，因为Wallpaper默认开机自启不算入Steam时长。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.5.html</guid><pubDate>Tue, 02 Jul 2024 01:25:17 +0000</pubDate></item><item><title>[GTA5]RID查询工具 - [高级版]</title><link>https://Yi-Zero.github.io/post/%5BGTA5%5DRID-cha-xun-gong-ju-%20-%20%5B-gao-ji-ban-%5D.html</link><description># [GTA5]RID查询工具 - [高级版]
+
+#### 该版本已不可使用请前往：[RID查询工具v1.1](https://yizero.top/index.php/2025/04/12/rid%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7v1-1/)
+
+### 预览图：
+&lt;img width='215' alt='屏幕截图 2024-06-30 200220' src='https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/2c1094de-f016-4a42-b74b-330530bcd0f5'&gt;
+
+&lt;img width='257' alt='屏幕截图 2024-06-30 200234' src='https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/5713de93-99e0-401d-9fb5-0dc319cfc9e8'&gt;
+
+&lt;img width='257' alt='屏幕截图 2024-06-30 200029' src='https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/f90927f2-4453-4fa5-a640-b5c9bea6407d'&gt;
+
+### 简介：
 一款功能更加丰富的GTA5玩家RID查询工具，提供了更多的玩家信息，只需输入玩家名称即可查询，单击右键即可复制选中信息。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/%5BGTA5%5DRID-cha-xun-gong-ju-%20-%20%5B-gao-ji-ban-%5D.html</guid><pubDate>Sun, 30 Jun 2024 12:06:06 +0000</pubDate></item><item><title>[GTA5]RID查询工具 - [普通版]</title><link>https://Yi-Zero.github.io/post/%5BGTA5%5DRID-cha-xun-gong-ju-%20-%20%5B-pu-tong-ban-%5D.html</link><description># [GTA5]RID查询工具 - [普通版]
 
 ### 该版本已不可使用请前往：[RID查询工具v1.1](https://yizero.top/index.php/2025/04/12/rid%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7v1-1/)

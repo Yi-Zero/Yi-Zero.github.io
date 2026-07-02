@@ -79,8 +79,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="content">
 <div class="markdown-body" id="postBody"><h3>更新内容：</h3>
 <p>*1：修复由于接口问题引起的无法查询到RID的问题。</p>
-<p>*#：详细的功能介绍请前往 <a href="https://yizero.top/index.php/2025/01/04/rid%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7v1-0/" rel="nofollow">RID查询工具v1.0</a> 查看。</p>
-<h3>下载请前往 <a href="https://yizero.top/index.php/2025/01/04/rid%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7v1-0/" rel="nofollow">RID查询工具v1.0</a></h3></div>
+<h3>下载请前往 <a href="https://www.yizero.top/index.php/software/RID-Lookup-Tool.html" rel="nofollow">RID查询工具</a></h3></div>
 <div style="font-size:small;margin-top:8px;float:right;">转载文章请注明出处，谢谢！</div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
@@ -100,7 +99,7 @@ if("06/28/2024"!=""){
     var startSite=new Date("06/28/2024");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
-    document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
 }
 </script></div>
 </body>
@@ -145,6 +144,7 @@ document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
 function openComments(){
     cm=document.getElementById("comments");
     cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
     cmButton.innerHTML="loading";
     span=document.createElement("span");
     span.setAttribute("class","AnimatedEllipsis");

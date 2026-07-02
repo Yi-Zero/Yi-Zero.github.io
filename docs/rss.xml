@@ -1,36 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Hello World!</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Tue, 15 Jul 2025 10:07:44 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>UP CORE – 简约安全的账号密码管理工具</title><link>https://Yi-Zero.github.io/post/UP%20CORE%20%E2%80%93%20-jian-yue-an-quan-de-zhang-hao-mi-ma-guan-li-gong-ju.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Yi-Zero的博客</title><link>https://Yi-Zero.github.io</link><description>Hello World!</description><copyright>Yi-Zero的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/158990067?v=4</url><title>avatar</title><link>https://Yi-Zero.github.io</link></image><lastBuildDate>Thu, 02 Jul 2026 09:34:42 +0000</lastBuildDate><managingEditor>Yi-Zero的博客</managingEditor><ttl>60</ttl><webMaster>Yi-Zero的博客</webMaster><item><title>UP CORE V1.0.5 更新</title><link>https://Yi-Zero.github.io/post/UP%20CORE%20V1.0.5%20-geng-xin.html</link><description>### V1.0.5更新内容：
+- 1.新增”关于“界面
+- 2.优化在备注文本过长的情况下导致”编辑模式“与”查看模式“下备注文本显示不全的问题
+- 3.新增导出数据时设置密码加密功能，不在明文存储导出的数据，增强安全性
+- 4.修复点击”导入数据“按钮后软件无响应问题
+- 5.优化部分内容显示
+- 6.还存在某些BUG，将在下一个版本修复，可通过在线更新检测更新
+
+下载方式 | 下载地址 | 类型
+-- | -- | --
+官网下载 | https://upcore.top | 无
+123盘 | https://www.123912.com/s/HTa7Vv-tFY93 | .exe安装包
+百du网盘 | https://pan.baidu.com/s/1r9lgvE2WsYIXB7XakSFYjQ?pwd=6nrq | .exe安装包
+。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/UP%20CORE%20V1.0.5%20-geng-xin.html</guid><pubDate>Fri, 05 Dec 2025 10:36:20 +0000</pubDate></item><item><title>UP CORE V1.0.2 – 简约安全的账号密码管理工具</title><link>https://Yi-Zero.github.io/post/UP%20CORE%20V1.0.2%20%E2%80%93%20-jian-yue-an-quan-de-zhang-hao-mi-ma-guan-li-gong-ju.html</link><description>
 ### 前言：
 
-如有BUG或新的想法请去博客评论反馈，谢谢。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/UP%20CORE%20%E2%80%93%20-jian-yue-an-quan-de-zhang-hao-mi-ma-guan-li-gong-ju.html</guid><pubDate>Tue, 15 Jul 2025 10:06:49 +0000</pubDate></item><item><title>UP CORE 你的密码管家。</title><link>https://Yi-Zero.github.io/post/UP%20CORE%20-ni-de-mi-ma-guan-jia-%E3%80%82.html</link><description>### 前言：
-UP CORE 我的第一个正经项目，最近这段时间一直在搞这个，采用C#作为开发语言，现已经基本开发完成，但还有些功能还没有做，相信过不了多久就会与大家见面的。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/UP%20CORE%20-ni-de-mi-ma-guan-jia-%E3%80%82.html</guid><pubDate>Sun, 13 Jul 2025 01:21:15 +0000</pubDate></item><item><title>[C#] - RID查询工具v1.0.0</title><link>https://Yi-Zero.github.io/post/%5BC%23%5D%20-%20RID-cha-xun-gong-ju-v1.0.0.html</link><description>### 详细信息及下载地址请前往：[[C#] – RID查询工具v1.0.0](https://yizero.top/index.php/2025/05/17/c-rid%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7v1-0-0/)
-### 前言：
+如有BUG或新的想法请去博客评论反馈，谢谢。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/UP%20CORE%20V1.0.2%20%E2%80%93%20-jian-yue-an-quan-de-zhang-hao-mi-ma-guan-li-gong-ju.html</guid><pubDate>Tue, 15 Jul 2025 10:06:49 +0000</pubDate></item><item><title>UP CORE 你的密码管家。</title><link>https://Yi-Zero.github.io/post/UP%20CORE%20-ni-de-mi-ma-guan-jia-%E3%80%82.html</link><description>### 前言：
+UP CORE 我的第一个正经项目，最近这段时间一直在搞这个，采用C#作为开发语言，现已经基本开发完成，但还有些功能还没有做，相信过不了多久就会与大家见面的。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/UP%20CORE%20-ni-de-mi-ma-guan-jia-%E3%80%82.html</guid><pubDate>Sun, 13 Jul 2025 01:21:15 +0000</pubDate></item><item><title>[C#] - RID查询工具v1.0.0</title><link>https://Yi-Zero.github.io/post/%5BC%23%5D%20-%20RID-cha-xun-gong-ju-v1.0.0.html</link><description>### 前言：
 
 好久没发博客了，上一次发博客还是修复易语言版本的RID查询工具，距今已经34天，写这个C#版本的初衷式为了解决易语言写的软件有几率报毒和体积大的问题，同时也是为了完成之前的承诺。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/%5BC%23%5D%20-%20RID-cha-xun-gong-ju-v1.0.0.html</guid><pubDate>Sat, 17 May 2025 07:39:11 +0000</pubDate></item><item><title>RID查询工具v1.1</title><link>https://Yi-Zero.github.io/post/RID-cha-xun-gong-ju-v1.1.html</link><description>### 更新内容：
 
-*1：修复由于接口问题引起的无法查询到RID的问题。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/RID-cha-xun-gong-ju-v1.1.html</guid><pubDate>Sun, 13 Apr 2025 01:12:07 +0000</pubDate></item><item><title>小新工具箱 - v0.8.0</title><link>https://Yi-Zero.github.io/post/xiao-xin-gong-ju-xiang-%20-%20v0.8.0.html</link><description>### 详细信息请前往博客文章查看：[小新工具箱v0.8.0](https://yizero.top/index.php/2025/02/14/%e5%b0%8f%e6%96%b0%e5%b7%a5%e5%85%b7%e7%ae%b1-v0-8-0/)
-
+*1：修复由于接口问题引起的无法查询到RID的问题。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/RID-cha-xun-gong-ju-v1.1.html</guid><pubDate>Sun, 13 Apr 2025 01:12:07 +0000</pubDate></item><item><title>小新工具箱 - v0.8.0</title><link>https://Yi-Zero.github.io/post/xiao-xin-gong-ju-xiang-%20-%20v0.8.0.html</link><description>
 ### 介绍：
-小新工具箱是一款方便的集电脑硬件信息展示，软件下载，进程管理等功能为一体的实用工具，软件小巧只有一个.exe程序，双击即可直接运行，且会有长期的维护与更新，只为打造一款实用的工具箱。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/xiao-xin-gong-ju-xiang-%20-%20v0.8.0.html</guid><pubDate>Sun, 23 Feb 2025 02:35:22 +0000</pubDate></item><item><title>游戏平台&amp;实用游戏工具安装包下载直链v1</title><link>https://Yi-Zero.github.io/post/you-xi-ping-tai-%26-shi-yong-you-xi-gong-ju-an-zhuang-bao-xia-zai-zhi-lian-v1.html</link><description>#### 接口详细信息以及软件收录表请前往博客文章查看：[游戏平台&amp;实用游戏工具安装包下载直链v1](https://yizero.top/index.php/2025/02/01/%e6%b8%b8%e6%88%8f%e5%b9%b3%e5%8f%b0%e5%ae%9e%e7%94%a8%e6%b8%b8%e6%88%8f%e5%b7%a5%e5%85%b7%e5%ae%89%e8%a3%85%e5%8c%85%e4%b8%8b%e8%bd%bd%e7%9b%b4%e9%93%bev1/)
+小新工具箱是一款方便的集电脑硬件信息展示，软件下载，进程管理等功能为一体的实用工具，软件小巧只有一个.exe程序，双击即可直接运行，且会有长期的维护与更新，只为打造一款实用的工具箱。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/xiao-xin-gong-ju-xiang-%20-%20v0.8.0.html</guid><pubDate>Sun, 23 Feb 2025 02:35:22 +0000</pubDate></item><item><title>公告：博客迁移通知</title><link>https://Yi-Zero.github.io/post/gong-gao-%EF%BC%9A-bo-ke-qian-yi-tong-zhi.html</link><description>由于基于GitHub Pages功能搭建的博客局限性太大，因此经过决定，已自行搭建新博客。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/gong-gao-%EF%BC%9A-bo-ke-qian-yi-tong-zhi.html</guid><pubDate>Sun, 05 Jan 2025 06:08:07 +0000</pubDate></item><item><title>E项目管理器 - G1.2.0</title><link>https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20G1.2.0.html</link><description>
+### 界面预览：
+&lt;img width='622' alt='Snipaste_2025-01-01_10-22-29' src='https://github.com/user-attachments/assets/18cec572-2ac2-47fc-a41f-94a7d499277f' /&gt;
 
-### 接口简介：
-
-基于”主流游戏平台以及实用工具的安装包下载直链API“的优化升级版，之前内个相当于是个Beta版吧，写的有点乱，调用代码写起来有点麻烦，基于之前内个优化升级了一下，之前内个接口也会正常运营不会关闭，但建议大家用这个v1版本。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/you-xi-ping-tai-%26-shi-yong-you-xi-gong-ju-an-zhuang-bao-xia-zai-zhi-lian-v1.html</guid><pubDate>Sat, 01 Feb 2025 12:11:06 +0000</pubDate></item><item><title>主流游戏平台&amp;实用工具安装包下载直链API</title><link>https://Yi-Zero.github.io/post/zhu-liu-you-xi-ping-tai-%26-shi-yong-gong-ju-an-zhuang-bao-xia-zai-zhi-lian-API.html</link><description>### 前言：&#13;
-经过一个多月的调整，本接口重新上线，欢迎各位调用。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/zhu-liu-you-xi-ping-tai-%26-shi-yong-gong-ju-an-zhuang-bao-xia-zai-zhi-lian-API.html</guid><pubDate>Mon, 13 Jan 2025 03:08:47 +0000</pubDate></item><item><title>公告：博客迁移通知</title><link>https://Yi-Zero.github.io/post/gong-gao-%EF%BC%9A-bo-ke-qian-yi-tong-zhi.html</link><description>由于基于GitHub Pages功能搭建的博客局限性太大，因此经过决定，已自行搭建新博客。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/gong-gao-%EF%BC%9A-bo-ke-qian-yi-tong-zhi.html</guid><pubDate>Sun, 05 Jan 2025 06:08:07 +0000</pubDate></item><item><title>E项目管理器 - G1.2.0</title><link>https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20G1.2.0.html</link><description>### 最新版本请前往：[E项目管理器 - G1.2.0](https://yizero.top/index.php/2025/01/04/e%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e5%99%a8-g1-2-0/)&#13;
-&#13;
-### 界面预览：&#13;
-&lt;img width='622' alt='Snipaste_2025-01-01_10-22-29' src='https://github.com/user-attachments/assets/18cec572-2ac2-47fc-a41f-94a7d499277f' /&gt;&#13;
-&#13;
-### 前言：&#13;
-新年第一天，首先我代表SK Suko Team.祝各位在2025年心想事成，身体健康，发！发！发！&#13;
-这个版本自己先用了一阵子，感觉应该是没什么BUG了。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20G1.2.0.html</guid><pubDate>Wed, 01 Jan 2025 02:24:26 +0000</pubDate></item><item><title>SK Suko Team. 祝各位在2025年心想事成，身体健康，发！发！发！</title><link>https://Yi-Zero.github.io/post/SK%20Suko%20Team.%20-zhu-ge-wei-zai-2025-nian-xin-xiang-shi-cheng-%EF%BC%8C-shen-ti-jian-kang-%EF%BC%8C-fa-%EF%BC%81-fa-%EF%BC%81-fa-%EF%BC%81.html</link><guid isPermaLink="true">https://Yi-Zero.github.io/post/SK%20Suko%20Team.%20-zhu-ge-wei-zai-2025-nian-xin-xiang-shi-cheng-%EF%BC%8C-shen-ti-jian-kang-%EF%BC%8C-fa-%EF%BC%81-fa-%EF%BC%81-fa-%EF%BC%81.html</guid><pubDate>Wed, 01 Jan 2025 02:15:51 +0000</pubDate></item><item><title>通知：所有业务已恢复！</title><link>https://Yi-Zero.github.io/post/tong-zhi-%EF%BC%9A-suo-you-ye-wu-yi-hui-fu-%EF%BC%81.html</link><description>### 通知内容：&#13;
+### 前言：
+新年第一天，首先我代表SK Suko Team.祝各位在2025年心想事成，身体健康，发！发！发！
+这个版本自己先用了一阵子，感觉应该是没什么BUG了。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20G1.2.0.html</guid><pubDate>Wed, 01 Jan 2025 02:24:26 +0000</pubDate></item><item><title>通知：所有业务已恢复！</title><link>https://Yi-Zero.github.io/post/tong-zhi-%EF%BC%9A-suo-you-ye-wu-yi-hui-fu-%EF%BC%81.html</link><description>### 通知内容：&#13;
 本次维护总计6天，由于不可抗力导致与原定业务恢复时间超出5天，对此我们深表歉意。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/tong-zhi-%EF%BC%9A-suo-you-ye-wu-yi-hui-fu-%EF%BC%81.html</guid><pubDate>Fri, 20 Dec 2024 10:53:44 +0000</pubDate></item><item><title>关于“ 软件更新检测服务以及软件直链API服务 ”临时暂停通知</title><link>https://Yi-Zero.github.io/post/guan-yu-%E2%80%9C%20-ruan-jian-geng-xin-jian-ce-fu-wu-yi-ji-ruan-jian-zhi-lian-API-fu-wu-%20%E2%80%9D-lin-shi-zan-ting-tong-zhi.html</link><description>### 通知内容：&#13;
-由于服务器硬件升级，导致所有业务无法正常访问，预计恢复时间1天左右。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/guan-yu-%E2%80%9C%20-ruan-jian-geng-xin-jian-ce-fu-wu-yi-ji-ruan-jian-zhi-lian-API-fu-wu-%20%E2%80%9D-lin-shi-zan-ting-tong-zhi.html</guid><pubDate>Sat, 14 Dec 2024 13:41:20 +0000</pubDate></item><item><title>E项目管理器 - Release_1.1.0_Fix</title><link>https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20Release_1.1.0_Fix.html</link><description>### 最新版本请前往：[E项目管理器 - G1.2.0](https://yizero.top/index.php/2025/01/04/e%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e5%99%a8-g1-2-0/)&#13;
-&#13;
-### 预览图：&#13;
-&lt;img width='622' alt='Snipaste_2024-12-06_18-58-19' src='https://github.com/user-attachments/assets/2319daf6-2d81-4eca-aa6e-ef09572a52f2'&gt;&#13;
-&#13;
-### 简介：&#13;
+由于服务器硬件升级，导致所有业务无法正常访问，预计恢复时间1天左右。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/guan-yu-%E2%80%9C%20-ruan-jian-geng-xin-jian-ce-fu-wu-yi-ji-ruan-jian-zhi-lian-API-fu-wu-%20%E2%80%9D-lin-shi-zan-ting-tong-zhi.html</guid><pubDate>Sat, 14 Dec 2024 13:41:20 +0000</pubDate></item><item><title>E项目管理器 - Release_1.1.0_Fix</title><link>https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20Release_1.1.0_Fix.html</link><description>
+### 预览图：
+&lt;img width='622' alt='Snipaste_2024-12-06_18-58-19' src='https://github.com/user-attachments/assets/2319daf6-2d81-4eca-aa6e-ef09572a52f2'&gt;
+
+### 简介：
 一款更具现代风的[易语言](http://bbs.125.la/)项目管理器，本人比较菜，写的不太好，只是为了实现相应的功能，还请大佬勿喷。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20Release_1.1.0_Fix.html</guid><pubDate>Fri, 06 Dec 2024 11:12:45 +0000</pubDate></item><item><title>通知：关于“主流游戏平台安装包下载直链API”下线公告</title><link>https://Yi-Zero.github.io/post/tong-zhi-%EF%BC%9A-guan-yu-%E2%80%9C-zhu-liu-you-xi-ping-tai-an-zhuang-bao-xia-zai-zhi-lian-API%E2%80%9D-xia-xian-gong-gao.html</link><description>### 本次通知：&#13;
 &#13;
 近期由于服务器以及带宽和域名问题，经过慎重决定，此接口将于2024年11月26日正式下线，我郑重对于已经使用该接口的用户表示歉意，后续解决域名以及其他问题后，此接口将会重新上线。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/tong-zhi-%EF%BC%9A-guan-yu-%E2%80%9C-zhu-liu-you-xi-ping-tai-an-zhuang-bao-xia-zai-zhi-lian-API%E2%80%9D-xia-xian-gong-gao.html</guid><pubDate>Tue, 26 Nov 2024 06:10:01 +0000</pubDate></item><item><title>！重要更新 ！笔记本Win11通用优化工具v24.11.09</title><link>https://Yi-Zero.github.io/post/%EF%BC%81-zhong-yao-geng-xin-%20%EF%BC%81-bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.11.09.html</link><description>### ！重要更新 ！笔记本Win11通用优化工具v24.11.09&#13;
@@ -78,8 +82,7 @@ UP CORE 我的第一个正经项目，最近这段时间一直在搞这个，采
 &lt;br&gt;&#13;
 &#13;
 &lt;p align='center'&gt;Copyright © 2024 Yi-Zero Blog • SK Suko Team. All Rights Reserved.&lt;/p&gt;&#13;
-。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/%EF%BC%81-yan-zhong-BUG-xiu-fu-%20%EF%BC%81-you-xi-ping-tai-%26-gong-ju-xia-zai-qi-v2.1.html</guid><pubDate>Sat, 09 Nov 2024 09:30:03 +0000</pubDate></item><item><title>主流游戏平台安装包下载直链API[Beta]</title><link>https://Yi-Zero.github.io/post/zhu-liu-you-xi-ping-tai-an-zhuang-bao-xia-zai-zhi-lian-API%5BBeta%5D.html</link><description>### 接口简介：&#13;
-返回主流游戏平台安装包的下载直链，方便下载，目前已收录24款软件。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/zhu-liu-you-xi-ping-tai-an-zhuang-bao-xia-zai-zhi-lian-API%5BBeta%5D.html</guid><pubDate>Sun, 03 Nov 2024 06:56:36 +0000</pubDate></item><item><title>Wallpaper一键启动脚本v2.7</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.7.html</link><description># Wallpaper一键启动脚本v2.7&#13;
+。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/%EF%BC%81-yan-zhong-BUG-xiu-fu-%20%EF%BC%81-you-xi-ping-tai-%26-gong-ju-xia-zai-qi-v2.1.html</guid><pubDate>Sat, 09 Nov 2024 09:30:03 +0000</pubDate></item><item><title>Wallpaper一键启动脚本v2.7</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.7.html</link><description># Wallpaper一键启动脚本v2.7&#13;
 &#13;
 ### 最新版本请前往：[Wallpaper一键启动脚本v2.8](https://yizero.top/index.php/2025/01/10/wallpaper%e4%b8%80%e9%94%ae%e5%90%af%e5%8a%a8%e8%84%9a%e6%9c%acv2-8/)&#13;
 ### 预览图：&#13;
@@ -142,22 +145,20 @@ UP CORE 我的第一个正经项目，最近这段时间一直在搞这个，采
 &#13;
 | 类型      | 下载地址 |&#13;
 | ----------- | ----------- |&#13;
-| 成品  |https://wankesixiang.lanzoub.com/i390925z3e2h 密码:ckqb       |。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.7.30.html</guid><pubDate>Tue, 30 Jul 2024 08:16:20 +0000</pubDate></item><item><title>Wallpaper一键启动脚本v2.6</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.6.html</link><description># Wallpaper一键启动脚本v2.6&#13;
-### 最新版本请前往：[Wallpaper一键启动脚本v2.8](https://yizero.top/index.php/2025/01/10/wallpaper%e4%b8%80%e9%94%ae%e5%90%af%e5%8a%a8%e8%84%9a%e6%9c%acv2-8/)&#13;
-&#13;
-### 预览图：&#13;
-![屏幕截图 2024-07-28 102733](https://github.com/user-attachments/assets/9eab7e9d-cf8b-4c73-9346-8df09cbae3a6)&#13;
-&#13;
-&#13;
-### 更新内容：&#13;
-*1.增加自动获取Steam安装位置功能(用户可自行选择自动或手动)&#13;
-*#.可能会有BUG希望用户遇到能够反馈&#13;
-&#13;
-&#13;
-### 下载区：&#13;
-&#13;
-| 类型      | 下载地址 |&#13;
-| ----------- | ----------- |&#13;
+| 成品  |https://wankesixiang.lanzoub.com/i390925z3e2h 密码:ckqb       |。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.7.30.html</guid><pubDate>Tue, 30 Jul 2024 08:16:20 +0000</pubDate></item><item><title>Wallpaper一键启动脚本v2.6</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.6.html</link><description># Wallpaper一键启动脚本v2.6
+### 预览图：
+![屏幕截图 2024-07-28 102733](https://github.com/user-attachments/assets/9eab7e9d-cf8b-4c73-9346-8df09cbae3a6)
+
+
+### 更新内容：
+*1.增加自动获取Steam安装位置功能(用户可自行选择自动或手动)
+*#.可能会有BUG希望用户遇到能够反馈
+
+
+### 下载区：
+
+| 类型      | 下载地址 |
+| ----------- | ----------- |
 | 成品  |https://wankesixiang.lanzoub.com/iAydf25r5tba 密码:eq6x       |。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.6.html</guid><pubDate>Sun, 28 Jul 2024 02:32:52 +0000</pubDate></item><item><title>笔记本Win11通用优化工具v24.7.27S</title><link>https://Yi-Zero.github.io/post/bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.7.27S.html</link><description># 笔记本Win11通用优化工具v24.7.27S&#13;
 &#13;
 &gt; [!IMPORTANT]&#13;
@@ -223,17 +224,15 @@ UP CORE 我的第一个正经项目，最近这段时间一直在搞这个，采
 &#13;
 | 类型      | 下载地址 |&#13;
 | ----------- | ----------- |&#13;
-| 成品  |https://wankesixiang.lanzoub.com/ihNPD24fzcuj 密码:hhjq       |。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.7.10.html</guid><pubDate>Sun, 14 Jul 2024 11:17:55 +0000</pubDate></item><item><title>Wallpaper一键启动脚本v2.5</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.5.html</link><description># Wallpaper一键启动脚本v2.5&#13;
-&#13;
-### 最新版本请前往：[Wallpaper一键启动脚本v2.8](https://yizero.top/index.php/2025/01/10/wallpaper%e4%b8%80%e9%94%ae%e5%90%af%e5%8a%a8%e8%84%9a%e6%9c%acv2-8/)&#13;
-&#13;
-### 预览图：&#13;
-![QQ截图20240702091319](https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/9bc6d25c-910d-4d7a-89f9-49841ec8ce94)&#13;
-&#13;
-### 简介：&#13;
+| 成品  |https://wankesixiang.lanzoub.com/ihNPD24fzcuj 密码:hhjq       |。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.7.10.html</guid><pubDate>Sun, 14 Jul 2024 11:17:55 +0000</pubDate></item><item><title>Wallpaper一键启动脚本v2.5</title><link>https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.5.html</link><description># Wallpaper一键启动脚本v2.5
+
+### 预览图：
+![QQ截图20240702091319](https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/9bc6d25c-910d-4d7a-89f9-49841ec8ce94)
+
+### 简介：
 *本脚本主要用于挂Sream的Wallpaper时长使用，因为Wallpaper默认开机自启不算入Steam时长。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.5.html</guid><pubDate>Tue, 02 Jul 2024 01:25:17 +0000</pubDate></item><item><title>[GTA5]RID查询工具 - [高级版]</title><link>https://Yi-Zero.github.io/post/%5BGTA5%5DRID-cha-xun-gong-ju-%20-%20%5B-gao-ji-ban-%5D.html</link><description># [GTA5]RID查询工具 - [高级版]
 
-#### 该版本已不可使用请前往：[RID查询工具v1.1](https://yizero.top/index.php/2025/04/12/rid%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7v1-1/)
+#### 该版本已不可使用请前往：[RID查询工具v1.2](https://www.yizero.top/index.php/software/RID-Lookup-Tool.html)
 
 ### 预览图：
 &lt;img width='215' alt='屏幕截图 2024-06-30 200220' src='https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/2c1094de-f016-4a42-b74b-330530bcd0f5'&gt;
@@ -245,7 +244,7 @@ UP CORE 我的第一个正经项目，最近这段时间一直在搞这个，采
 ### 简介：
 一款功能更加丰富的GTA5玩家RID查询工具，提供了更多的玩家信息，只需输入玩家名称即可查询，单击右键即可复制选中信息。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/%5BGTA5%5DRID-cha-xun-gong-ju-%20-%20%5B-gao-ji-ban-%5D.html</guid><pubDate>Sun, 30 Jun 2024 12:06:06 +0000</pubDate></item><item><title>[GTA5]RID查询工具 - [普通版]</title><link>https://Yi-Zero.github.io/post/%5BGTA5%5DRID-cha-xun-gong-ju-%20-%20%5B-pu-tong-ban-%5D.html</link><description># [GTA5]RID查询工具 - [普通版]
 
-### 该版本已不可使用请前往：[RID查询工具v1.1](https://yizero.top/index.php/2025/04/12/rid%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7v1-1/)
+### 该版本已不可使用请前往：[RID查询工具v1.2](https://www.yizero.top/index.php/software/RID-Lookup-Tool.html)
 
 
 ### 预览图：
@@ -278,13 +277,10 @@ UP CORE 我的第一个正经项目，最近这段时间一直在搞这个，采
 | 类型      | 下载地址 |&#13;
 | ----------- | ----------- |&#13;
 | 成品  |https://wankesixiang.lanzoub.com/iTsQT23117rc    密码:b7gb       |&#13;
-。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/Win11-bi-ji-ben-tong-yong-you-hua-gong-ju-v24.6.1.0903.html</guid><pubDate>Sat, 29 Jun 2024 07:00:31 +0000</pubDate></item><item><title>E项目管理器 - Release_1.0.0</title><link>https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20Release_1.0.0.html</link><description>&#13;
-### 最新版本请前往：[E项目管理器 - G1.2.0](https://yizero.top/index.php/2025/01/04/e%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e5%99%a8-g1-2-0/)&#13;
-&#13;
-### 预览图：&#13;
-&#13;
-&lt;img width='622' alt='屏幕截图 2024-06-28 195345' src='https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/ef6bb421-2256-4ccd-aa05-5a921377efe3'&gt;&#13;
-&#13;
-&#13;
-### 简介：&#13;
+。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/Win11-bi-ji-ben-tong-yong-you-hua-gong-ju-v24.6.1.0903.html</guid><pubDate>Sat, 29 Jun 2024 07:00:31 +0000</pubDate></item><item><title>E项目管理器 - Release_1.0.0</title><link>https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20Release_1.0.0.html</link><description>### 预览图：
+
+&lt;img width='622' alt='屏幕截图 2024-06-28 195345' src='https://github.com/Yi-Zero/Yi-Zero.github.io/assets/158990067/ef6bb421-2256-4ccd-aa05-5a921377efe3'&gt;
+
+
+### 简介：
 一款更具现代风的[易语言](http://bbs.125.la/)项目管理器，本人比较菜，写的不太好，只是为了实现相应的功能，还请大佬勿喷。</description><guid isPermaLink="true">https://Yi-Zero.github.io/post/E-xiang-mu-guan-li-qi-%20-%20Release_1.0.0.html</guid><pubDate>Fri, 28 Jun 2024 12:14:17 +0000</pubDate></item></channel></rss>

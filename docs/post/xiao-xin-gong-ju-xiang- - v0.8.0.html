@@ -10,13 +10,11 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="### 详细信息请前往博客文章查看：[小新工具箱v0.8.0](https://yizero.top/index.php/2025/02/14/%e5%b0%8f%e6%96%b0%e5%b7%a5%e5%85%b7%e7%ae%b1-v0-8-0/)
-
+<meta name="description" content="
 ### 介绍：
 小新工具箱是一款方便的集电脑硬件信息展示，软件下载，进程管理等功能为一体的实用工具，软件小巧只有一个.exe程序，双击即可直接运行，且会有长期的维护与更新，只为打造一款实用的工具箱。">
 <meta property="og:title" content="小新工具箱 - v0.8.0">
-<meta property="og:description" content="### 详细信息请前往博客文章查看：[小新工具箱v0.8.0](https://yizero.top/index.php/2025/02/14/%e5%b0%8f%e6%96%b0%e5%b7%a5%e5%85%b7%e7%ae%b1-v0-8-0/)
-
+<meta property="og:description" content="
 ### 介绍：
 小新工具箱是一款方便的集电脑硬件信息展示，软件下载，进程管理等功能为一体的实用工具，软件小巧只有一个.exe程序，双击即可直接运行，且会有长期的维护与更新，只为打造一款实用的工具箱。">
 <meta property="og:type" content="article">
@@ -79,8 +77,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div class="markdown-body" id="postBody"><h3>详细信息请前往博客文章查看：<a href="https://yizero.top/index.php/2025/02/14/%e5%b0%8f%e6%96%b0%e5%b7%a5%e5%85%b7%e7%ae%b1-v0-8-0/" rel="nofollow">小新工具箱v0.8.0</a></h3>
-<h3>介绍：</h3>
+<div class="markdown-body" id="postBody"><h3>介绍：</h3>
 <p>小新工具箱是一款方便的集电脑硬件信息展示，软件下载，进程管理等功能为一体的实用工具，软件小巧只有一个.exe程序，双击即可直接运行，且会有长期的维护与更新，只为打造一款实用的工具箱。</p>
 <h3>前言：</h3>
 <p>经过近1个月的开发，小新工具箱终于是打磨的差不多了，虽然目前功能还是不太完善，但也基本能够满足日常使用了。</p>
@@ -160,7 +157,7 @@ if("06/28/2024"!=""){
     var startSite=new Date("06/28/2024");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
-    document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
 }
 </script></div>
 </body>
@@ -205,6 +202,7 @@ document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
 function openComments(){
     cm=document.getElementById("comments");
     cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
     cmButton.innerHTML="loading";
     span=document.createElement("span");
     span.setAttribute("class","AnimatedEllipsis");

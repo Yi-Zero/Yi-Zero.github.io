@@ -29,7 +29,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <style>
 .avatar {transition: 0.8s;width:64px;height:64px;object-fit: cover;}
 .avatar:hover{transform: scale(1.15) rotate(360deg);}
-#header h1 a{color:inherit;text-decoration:none;vertical-align: bottom;font-size:40px;font-family:Monaco;margin-left:8px;}
+.title-left a{color:inherit;text-decoration:none;vertical-align: bottom;font-size:40px;font-weight: bold;font-family:Monaco;margin-left:8px;}
 .title-right{display:flex;margin:auto 0 0 auto;}
 .title-right button{margin-right:8px;padding:16px;}
 .title-right .circle{padding: 14px 16px;}
@@ -55,8 +55,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 <body>
     <div id="header">
-<h1>
-    <img src="https://avatars.githubusercontent.com/u/158990067?v=4" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">Yi-Zero的博客</a></h1>
+<div class="title-left">
+    <img src="https://avatars.githubusercontent.com/u/158990067?v=4" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">Yi-Zero的博客</a></div>
 <div class="title-right">
     <a href="https://Yi-Zero.github.io/tag.html" id="buttonSearch" class="btn btn-invisible circle" title="搜索">
         <svg class="octicon" width="16" height="16" >
@@ -80,11 +80,22 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="content">
 <div style="margin-bottom: 16px;">Hello World!</div>
 <nav class="SideNav border">
-<a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/UP%20CORE%20%E2%80%93%20-jian-yue-an-quan-de-zhang-hao-mi-ma-guan-li-gong-ju.html">
+<a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/UP%20CORE%20V1.0.5%20-geng-xin.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
-        <span class="listTitle">UP CORE – 简约安全的账号密码管理工具</span>
+        <span class="listTitle">UP CORE V1.0.5 更新</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#88C973"><object><a style="color:#fff" href="tag.html#软件发布">软件发布</a></object></span><span class="Label LabelName" style="background-color:#2872EA"><object><a style="color:#fff" href="tag.html#成品">成品</a></object></span><span class="Label LabelName" style="background-color:#4db5ef"><object><a style="color:#fff" href="tag.html#UP CORE">UP CORE</a></object></span>
+        <span class="Label LabelTime" style="background-color:#0969da">2025-12-05</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/UP%20CORE%20V1.0.2%20%E2%80%93%20-jian-yue-an-quan-de-zhang-hao-mi-ma-guan-li-gong-ju.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">UP CORE V1.0.2 – 简约安全的账号密码管理工具</span>
     </div>
     <div class="listLabels">
         
@@ -93,7 +104,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/UP%20CORE%20-ni-de-mi-ma-guan-jia-%E3%80%82.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">UP CORE 你的密码管家。</span>
     </div>
@@ -104,7 +115,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/%5BC%23%5D%20-%20RID-cha-xun-gong-ju-v1.0.0.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">[C#] - RID查询工具v1.0.0</span>
     </div>
@@ -115,7 +126,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/RID-cha-xun-gong-ju-v1.1.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">RID查询工具v1.1</span>
     </div>
@@ -126,7 +137,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/xiao-xin-gong-ju-xiang-%20-%20v0.8.0.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">小新工具箱 - v0.8.0</span>
     </div>
@@ -135,31 +146,9 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         <span class="Label LabelName" style="background-color:#88C973"><object><a style="color:#fff" href="tag.html#软件发布">软件发布</a></object></span><span class="Label LabelName" style="background-color:#2872EA"><object><a style="color:#fff" href="tag.html#成品">成品</a></object></span>
         <span class="Label LabelTime" style="background-color:#0969da">2025-02-23</span>
     </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/you-xi-ping-tai-%26-shi-yong-you-xi-gong-ju-an-zhuang-bao-xia-zai-zhi-lian-v1.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">游戏平台&amp;实用游戏工具安装包下载直链v1</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#9E39AC"><object><a style="color:#fff" href="tag.html#API">API</a></object></span>
-        <span class="Label LabelTime" style="background-color:#0969da">2025-02-01</span>
-    </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/zhu-liu-you-xi-ping-tai-%26-shi-yong-gong-ju-an-zhuang-bao-xia-zai-zhi-lian-API.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">主流游戏平台&amp;实用工具安装包下载直链API</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#9E39AC"><object><a style="color:#fff" href="tag.html#API">API</a></object></span>
-        <span class="Label LabelTime" style="background-color:#0969da">2025-01-13</span>
-    </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/gong-gao-%EF%BC%9A-bo-ke-qian-yi-tong-zhi.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">公告：博客迁移通知</span>
     </div>
@@ -170,7 +159,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/E-xiang-mu-guan-li-qi-%20-%20G1.2.0.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">E项目管理器 - G1.2.0</span>
     </div>
@@ -179,20 +168,9 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         <span class="Label LabelName" style="background-color:#88C973"><object><a style="color:#fff" href="tag.html#软件发布">软件发布</a></object></span><span class="Label LabelName" style="background-color:#2872EA"><object><a style="color:#fff" href="tag.html#源码">源码</a></object></span><span class="Label LabelName" style="background-color:#2872EA"><object><a style="color:#fff" href="tag.html#成品">成品</a></object></span>
         <span class="Label LabelTime" style="background-color:#0969da">2025-01-01</span>
     </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/SK%20Suko%20Team.%20-zhu-ge-wei-zai-2025-nian-xin-xiang-shi-cheng-%EF%BC%8C-shen-ti-jian-kang-%EF%BC%8C-fa-%EF%BC%81-fa-%EF%BC%81-fa-%EF%BC%81.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">SK Suko Team. 祝各位在2025年心想事成，身体健康，发！发！发！</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#58BC8E"><object><a style="color:#fff" href="tag.html#通知">通知</a></object></span>
-        <span class="Label LabelTime" style="background-color:#0969da">2025-01-01</span>
-    </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/tong-zhi-%EF%BC%9A-suo-you-ye-wu-yi-hui-fu-%EF%BC%81.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">通知：所有业务已恢复！</span>
     </div>
@@ -203,7 +181,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/guan-yu-%E2%80%9C%20-ruan-jian-geng-xin-jian-ce-fu-wu-yi-ji-ruan-jian-zhi-lian-API-fu-wu-%20%E2%80%9D-lin-shi-zan-ting-tong-zhi.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">关于“ 软件更新检测服务以及软件直链API服务 ”临时暂停通知</span>
     </div>
@@ -214,7 +192,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/E-xiang-mu-guan-li-qi-%20-%20Release_1.1.0_Fix.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">E项目管理器 - Release_1.1.0_Fix</span>
     </div>
@@ -225,7 +203,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/tong-zhi-%EF%BC%9A-guan-yu-%E2%80%9C-zhu-liu-you-xi-ping-tai-an-zhuang-bao-xia-zai-zhi-lian-API%E2%80%9D-xia-xian-gong-gao.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">通知：关于“主流游戏平台安装包下载直链API”下线公告</span>
     </div>
@@ -236,7 +214,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/%EF%BC%81-zhong-yao-geng-xin-%20%EF%BC%81-bi-ji-ben-Win11-tong-yong-you-hua-gong-ju-v24.11.09.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">！重要更新 ！笔记本Win11通用优化工具v24.11.09</span>
     </div>
@@ -244,6 +222,28 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         
         <span class="Label LabelName" style="background-color:#88C973"><object><a style="color:#fff" href="tag.html#软件发布">软件发布</a></object></span><span class="Label LabelName" style="background-color:#2872EA"><object><a style="color:#fff" href="tag.html#成品">成品</a></object></span>
         <span class="Label LabelTime" style="background-color:#bc4c00">2024-11-09</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/%EF%BC%81-yan-zhong-BUG-xiu-fu-%20%EF%BC%81-you-xi-ping-tai-%26-gong-ju-xia-zai-qi-v2.1.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">！严重BUG修复 ！游戏平台&amp;工具下载器v2.1</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#88C973"><object><a style="color:#fff" href="tag.html#软件发布">软件发布</a></object></span><span class="Label LabelName" style="background-color:#2872EA"><object><a style="color:#fff" href="tag.html#成品">成品</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-11-09</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/Wallpaper-yi-jian-qi-dong-jiao-ben-v2.7.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">Wallpaper一键启动脚本v2.7</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#88C973"><object><a style="color:#fff" href="tag.html#软件发布">软件发布</a></object></span><span class="Label LabelName" style="background-color:#2872EA"><object><a style="color:#fff" href="tag.html#成品">成品</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-09-21</span>
     </div>
 </a>
 </nav><nav class="paginate-container" aria-label="Pagination">
@@ -264,7 +264,7 @@ if("06/28/2024"!=""){
     var startSite=new Date("06/28/2024");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
-    document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
 }
 </script></div>
 </body>

@@ -2,9 +2,6 @@
 ### 前言：
 
 如有BUG或新的想法请去博客评论反馈，谢谢。
-
-博客页：[UP CORE – 简约安全的账号密码管理工具](https://yizero.top/index.php/2025/07/15/up-core-a-simple-and-secure-account-and-password-management-tool/)
-
 软件官网：https://upcore.top/
 
 ### 简介：
@@ -27,17 +24,22 @@ UP CORE 中文名”用户名密码核心(Username Password Core)”，是基于
 
 密码安全：PBKDF2密钥派生算法，60万次迭代增强抗暴力破解
 
-### UI展示：
+### UI展示(局部，详细请前往最新博客)：
 
+![Image](https://github.com/user-attachments/assets/5ca7f2b2-26c2-4191-a776-52bd4cc353fc)
 
+![Image](https://github.com/user-attachments/assets/adf67e7b-0e40-4d1a-97f5-0fdd015a6688)
 
+![Image](https://github.com/user-attachments/assets/4c3b318c-f525-467c-b46f-dff979e5db8d)
 
 ### 下载区：
-
-
-
 | 下载方式 | 下载地址 |类型 |
 | -------- | -------- | -------- |
 | 官网下载     | https://upcore.top/    | 跳转官网     |
-| 123盘     | https://www.123912.com/s/HTa7Vv-ZiF93    | .exe安装包     |
-| 百度网盘     | https://pan.baidu.com/s/1cnKohdMTygUoo29Kws__eg?pwd=i8c9    | .exe安装包     |
+| 123盘     | https://www.123912.com/s/HTa7Vv-P6F93    | .exe安装包     |
+| 百度网盘     | https://pan.baidu.com/s/1gKr9h3yUlWT4YRUSjf7dyA?pwd=ux9y    | .exe安装包     |
+
+### 补充：
+V1.0.2:
+- 1.新增 设置 功能，方便用户个性化设置
+- 2.新增 设置→双击默认执行 功能，可以设置表项双击是查看信息还是复制密码

@@ -10,13 +10,19 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="">
-<meta property="og:title" content="SK Suko Team. 祝各位在2025年心想事成，身体健康，发！发！发！">
-<meta property="og:description" content="">
+<meta name="description" content="
+### 前言：
+
+如有BUG或新的想法请去博客评论反馈，谢谢。">
+<meta property="og:title" content="UP CORE V1.0.2 – 简约安全的账号密码管理工具">
+<meta property="og:description" content="
+### 前言：
+
+如有BUG或新的想法请去博客评论反馈，谢谢。">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://Yi-Zero.github.io/post/SK%20Suko%20Team.%20-zhu-ge-wei-zai-2025-nian-xin-xiang-shi-cheng-%EF%BC%8C-shen-ti-jian-kang-%EF%BC%8C-fa-%EF%BC%81-fa-%EF%BC%81-fa-%EF%BC%81.html">
+<meta property="og:url" content="https://Yi-Zero.github.io/post/UP%20CORE%20V1.0.2%20%E2%80%93%20-jian-yue-an-quan-de-zhang-hao-mi-ma-guan-li-gong-ju.html">
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/158990067?v=4">
-<title>SK Suko Team. 祝各位在2025年心想事成，身体健康，发！发！发！</title>
+<title>UP CORE V1.0.2 – 简约安全的账号密码管理工具</title>
 
 
 
@@ -49,7 +55,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 <body>
     <div id="header">
-<h1 class="postTitle">SK Suko Team. 祝各位在2025年心想事成，身体健康，发！发！发！</h1>
+<h1 class="postTitle">UP CORE V1.0.2 – 简约安全的账号密码管理工具</h1>
 <div class="title-right">
     <a href="https://Yi-Zero.github.io" id="buttonHome" class="btn btn-invisible circle" title="首页">
         <svg class="octicon" width="16" height="16">
@@ -57,7 +63,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         </svg>
     </a>
     
-    <a href="https://github.com/Yi-Zero/Yi-Zero.github.io/issues/21" target="_blank" class="btn btn-invisible circle" title="Issue">
+    <a href="https://github.com/Yi-Zero/Yi-Zero.github.io/issues/30" target="_blank" class="btn btn-invisible circle" title="Issue">
         <svg class="octicon" width="16" height="16">
             <path id="pathIssue" fill-rule="evenodd"></path>
         </svg>
@@ -73,7 +79,56 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div class="markdown-body" id="postBody"></div>
+<div class="markdown-body" id="postBody"><h3>前言：</h3>
+<p>如有BUG或新的想法请去博客评论反馈，谢谢。<br>
+软件官网：<a href="https://upcore.top/" rel="nofollow">https://upcore.top/</a></p>
+<h3>简介：</h3>
+<p>UP CORE 中文名”用户名密码核心(Username Password Core)”，是基于AntdUI+SQLite开发的本地化账号密码存储软件，支持深浅双模式显示，自动识别当前系统主题色自动切换。安全方面使用PBKDF2密钥派生算法，60万次迭代增强抗暴力破解，拥有高安全性，还采用Windows DPAPI字段级加密用于加密用户存储的数据，加密范围限定为当前用户，是你在Windows环境下存储密码的不二之选。</p>
+<h3>核心功能：</h3>
+<p>硬件级绑定：您的数据只能在注册账号的电脑上才能被解密，在其他电脑就算登录成功也无法解密数据</p>
+<p>敏感数据加密：使用Windows数据保护API加密敏感字段以及使用系统级密钥管理，避免硬编码密钥风险</p>
+<p>数据库安全：使用字段级加密，敏感数据在存储前加密，限制为当前用户访问，全面使用参数化查询</p>
+<h3>安全机制：</h3>
+<p>零知识原则：您的密码只有您知道，我们无法访问您的数据</p>
+<p>本地加密存储：所有数据均在本地加密存储，用户输入内容全加密，拒绝用户数据明文存储</p>
+<p>密码安全：PBKDF2密钥派生算法，60万次迭代增强抗暴力破解</p>
+<h3>UI展示(局部，详细请前往最新博客)：</h3>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/5ca7f2b2-26c2-4191-a776-52bd4cc353fc"><img src="https://github.com/user-attachments/assets/5ca7f2b2-26c2-4191-a776-52bd4cc353fc" alt="Image" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/adf67e7b-0e40-4d1a-97f5-0fdd015a6688"><img src="https://github.com/user-attachments/assets/adf67e7b-0e40-4d1a-97f5-0fdd015a6688" alt="Image" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/4c3b318c-f525-467c-b46f-dff979e5db8d"><img src="https://github.com/user-attachments/assets/4c3b318c-f525-467c-b46f-dff979e5db8d" alt="Image" style="max-width: 100%;"></a></p>
+<h3>下载区：</h3>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>下载方式</th>
+<th>下载地址</th>
+<th>类型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>官网下载</td>
+<td><a href="https://upcore.top/" rel="nofollow">https://upcore.top/</a></td>
+<td>跳转官网</td>
+</tr>
+<tr>
+<td>123盘</td>
+<td><a href="https://www.123912.com/s/HTa7Vv-P6F93" rel="nofollow">https://www.123912.com/s/HTa7Vv-P6F93</a></td>
+<td>.exe安装包</td>
+</tr>
+<tr>
+<td>百度网盘</td>
+<td><a href="https://pan.baidu.com/s/1gKr9h3yUlWT4YRUSjf7dyA?pwd=ux9y" rel="nofollow">https://pan.baidu.com/s/1gKr9h3yUlWT4YRUSjf7dyA?pwd=ux9y</a></td>
+<td>.exe安装包</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<h3>补充：</h3>
+<p>V1.0.2:</p>
+<ul>
+<li>1.新增 设置 功能，方便用户个性化设置</li>
+<li>2.新增 设置→双击默认执行 功能，可以设置表项双击是查看信息还是复制密码</li>
+</ul></div>
 <div style="font-size:small;margin-top:8px;float:right;">转载文章请注明出处，谢谢！</div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
@@ -93,7 +148,7 @@ if("06/28/2024"!=""){
     var startSite=new Date("06/28/2024");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
-    document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
 }
 </script></div>
 </body>
@@ -138,6 +193,7 @@ document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
 function openComments(){
     cm=document.getElementById("comments");
     cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
     cmButton.innerHTML="loading";
     span=document.createElement("span");
     span.setAttribute("class","AnimatedEllipsis");

@@ -1,6 +1,6 @@
 # [GTA5]RID查询工具 - [普通版]
 
-### 该版本已不可使用请前往：[RID查询工具v1.1](https://yizero.top/index.php/2025/04/12/rid%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7v1-1/)
+### 该版本已不可使用请前往：[RID查询工具v1.2](https://www.yizero.top/index.php/software/RID-Lookup-Tool.html)
 
 
 ### 预览图：
